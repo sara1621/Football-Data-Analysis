@@ -45,6 +45,8 @@ This tutorial focuses on **segmenting passes into three vertical corridors (Left
 
 This tutorial shows you how to visualize penalty shots using your own data.
 👉 **Explore the tutorial here**: [draw_goal Notebook](https://github.com/sara1621/Football-Data-Analysis/blob/main/draw_goal.ipynb)  
+
+
 ---
 
 ## 🧩 Installation
