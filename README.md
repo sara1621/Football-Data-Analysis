@@ -51,8 +51,8 @@ This tutorial shows you how to visualize penalty shots using your own data.
 
 ```bash
 pip install goal-plot
+```
 
----
 
 ## **🚀 How to Use This Repository?**  
 Simply clone the repository and explore the Jupyter notebooks:  
