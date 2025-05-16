@@ -39,6 +39,21 @@ This tutorial focuses on **segmenting passes into three vertical corridors (Left
 
 ---
 
+# 🎯 How to Use `goal-plot` to Visualize Penalty Shots
+
+`goal-plot` is my first Python package – simple and easy to use! It lets you draw a clean 2D goal and plot events like penalties on it.
+
+This tutorial shows you how to visualize penalty shots using your own data.
+
+---
+
+## 🧩 Installation
+
+```bash
+pip install goal-plot
+
+---
+
 ## **🚀 How to Use This Repository?**  
 Simply clone the repository and explore the Jupyter notebooks:  
 ```bash
