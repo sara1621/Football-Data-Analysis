@@ -25,7 +25,7 @@ This notebook is part of the **QuantStats Data Analysis in Football Course**
 ## 🏆 Challenge
 
 📌 **Create a heatmap of Ali Abdi’s defensive actions** and post your result on LinkedIn with the hashtag  
-`#QuantStatsChallenge` and **tag me (@Sara Bentelli)** — I’ll feature selected works!
+`#BentelliChallenge` and **tag me (@Sara Bentelli)** — I’ll feature selected works!
 
 Need help? Check the notebook for guidance and examples.
 
@@ -33,9 +33,9 @@ Need help? Check the notebook for guidance and examples.
 
 ## 📁 Files Included
 
+- `From_Data_to_Social_Media.ipynb`: The full tutorial notebook used in the live demo session  
 - `ali_abdi.csv`: The dataset for the visualizations  
 - `From_Data_to_Social_Media.pdf`: The PDF guide that explains the methodology  
-
 ---
 
 ## 🛠 Libraries Used
