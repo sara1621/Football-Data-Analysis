@@ -4,6 +4,56 @@ This repository contains various **codes and tutorials** focused on **football e
 
 ## **Contents**  
 
+
+# 📊 From Data to Social Media
+
+This notebook is part of the **QuantStats Data Analysis in Football Course**  
+🎯 **Objective**: Learn how to turn raw event data into meaningful, shareable visualizations for social media.
+
+---
+
+## 💡 What You'll Learn
+
+- How to filter and prepare football event data  
+- How to create captivating visualizations with `mplsoccer`  
+- How to highlight key actions like defensive events or goals  
+- How to export and save your visuals  
+- ⚠️ Final Challenge: Build your own **defensive heatmap** for Ali Abdi!
+
+---
+
+## 🏆 Challenge
+
+📌 **Create a heatmap of Ali Abdi’s defensive actions** and post your result on LinkedIn with the hashtag  
+`#QuantStatsChallenge` and **tag me (@Sara Bentelli)** — I’ll feature selected works!
+
+Need help? Check the notebook for guidance and examples.
+
+---
+
+## 📁 Files Included
+
+- `ali_abdi.csv`: The dataset for the visualizations  
+- `From_Data_to_Social_Media.pdf`: The PDF guide that explains the methodology  
+
+---
+
+## 🛠 Libraries Used
+
+- `pandas`  
+- `mplsoccer`  
+- `matplotlib`  
+- `seaborn`  
+- `highlight_text`  
+- `FontManager`, `PIL`, `cmasher`...
+
+---
+
+## 🚀 Let's Build Together
+
+Don’t hesitate to fork, play with the code, and share your creations.  
+This is just the beginning — bring your own creativity, and let’s push the limits of football analysis together!
+
 ### **1️⃣ Data Manipulation Techniques**  
 - **Concatenation & Splitting**: Efficient methods for merging and breaking down large datasets.  
 - **Grouping & Filtering**: Advanced techniques to group data and retrieve meaningful subsets, crucial for focusing on specific players, teams, or match events.  
